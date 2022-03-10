@@ -12,7 +12,7 @@ library("readr")
 library("shinydashboard")
 library("rio")
 
-setwd("C:/Users/syschulz/Documents/GitHub/HW5_Schulz_Sherry")
+#setwd("C:/Users/syschulz/Documents/GitHub/HW5_Schulz_Sherry")
 life<-read.csv("Human_life_Expectancy.csv")
 location<-read.csv("World_Locator.csv")
 
